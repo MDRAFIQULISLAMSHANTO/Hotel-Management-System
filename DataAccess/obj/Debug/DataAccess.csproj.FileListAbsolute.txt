@@ -1,0 +1,6 @@
+C:\Users\ACER\Desktop\Hotel Management System\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\ACER\Desktop\Hotel Management System\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\ACER\Desktop\Hotel Management System\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\Hotel Management System\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Hotel Management System\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\ACER\Desktop\Hotel Management System\DataAccess\obj\Debug\DataAccess.pdb

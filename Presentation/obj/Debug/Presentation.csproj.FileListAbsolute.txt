@@ -1,0 +1,16 @@
+C:\Users\ACER\Desktop\Hotel Management System\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\ACER\Desktop\Hotel Management System\Presentation\bin\Debug\Presentation.exe
+C:\Users\ACER\Desktop\Hotel Management System\Presentation\bin\Debug\Presentation.pdb
+C:\Users\ACER\Desktop\Hotel Management System\Presentation\obj\Debug\Presentation.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\Hotel Management System\Presentation\obj\Debug\Presentation.Form1.resources
+C:\Users\ACER\Desktop\Hotel Management System\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\ACER\Desktop\Hotel Management System\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\Hotel Management System\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Hotel Management System\Presentation\obj\Debug\Presentation.exe
+C:\Users\ACER\Desktop\Hotel Management System\Presentation\obj\Debug\Presentation.pdb
+C:\Users\ACER\Desktop\Hotel Management System\Presentation\obj\Debug\Presentation.Dashboard.resources
+C:\Users\ACER\Desktop\Hotel Management System\Presentation\obj\Debug\Presentation.RoomType.resources
+C:\Users\ACER\Desktop\Hotel Management System\Presentation\obj\Debug\Presentation.Registration.resources
+C:\Users\ACER\Desktop\Hotel Management System\Presentation\bin\Debug\DataAccess.dll
+C:\Users\ACER\Desktop\Hotel Management System\Presentation\bin\Debug\DataAccess.pdb
+C:\Users\ACER\Desktop\Hotel Management System\Presentation\obj\Debug\Presentation.csproj.CopyComplete
